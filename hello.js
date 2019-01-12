@@ -1,4 +1,4 @@
 
-btn.onclick = function() {
-console.log('我的小智');
+btn.click = function() {
+console.log('git 远程测试！')
 }
